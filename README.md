@@ -86,15 +86,13 @@ Total Movies from India: 893
 | International Movies        | 2752              |
 | Dramas                      | 2426              |
 | Comedies                    | 1674              |
-| International TV Shows      | 1349              |<img width="439" alt="Screenshot 2024-09-26 160800" src="https://github.com/user-attachments/assets/7c5133a2-9109-495e-82dd-0aa9bcfc2c57">
-
+| International TV Shows      | 1349              |
 | Documentaries               | 869               |
 | Action & Adventure          | 859               |
 | TV Dramas                   | 762               |
 | Independent Movies          | 756               |
 | Children & Family Movies    | 641               |
 | Romantic Movies             | 616               |
-
 
 
 ## 4. Insights Deep Dive
