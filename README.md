@@ -7,56 +7,71 @@ Netflix is the world’s leading streaming entertainment service, offering movie
 ## 2. Data Structure Overview
 
 The dataset comprises the following key columns:
+
 •	title: Name of the movie or TV show.
+
 •	director: Director of the content (if available).
+
 •	cast: Cast of the movie or TV show.
+
 •	country: Country of origin of the content.
+
 •	release_year: Year the content was released.
+
 •	rating: Audience rating (e.g., TV-MA, TV-14).
+
 •	duration: Duration of the movie or show.
+
 •	type: Whether it’s a movie or TV show.
+
 •	listed_in: Genres the content falls under (e.g., Action, Comedy).
 
 ## 3. Executive Summary
 The analysis highlights several key findings regarding Netflix’s content over the years:
 
 ### •	Release Trends:
-o	The majority of releases occurred between 2000 and 2020.
-o	The year with the highest number of releases was 2018.
+The majority of releases occurred between 2000 and 2020.
+The year with the highest number of releases was 2018.
 
 ### •	Country-Wise Content:
-o	Top 10 countries with the highest content:
+Top 10 countries with the highest content:
 
-United States       2809
-India               972
-Unknown_value       829
-United Kingdom      418
-Japan               243
-South Korea         199
-Canada              181
-Spain               145
-France              124
-Mexico              110
+| Country         | Number of Content |
+|-----------------|-------------------|
+| United States   | 2809              |
+| India           | 972               |
+| Unknown_value   | 829               |
+| United Kingdom  | 418               |
+| Japan           | 243               |
+| South Korea     | 199               |
+| Canada          | 181               |
+| Spain           | 145               |
+| France          | 124               |
+| Mexico          | 110               |
+
 
 •	The United States dominates Netflix’s library with 2,809 titles, followed by India with 972 titles.
 
 ### •	Breakdown for Indian content:
-o	Total TV Shows from India: 73
-o	Total Movies from India: 893
+Total TV Shows from India: 73
+Total Movies from India: 893
 
 ### •  Top Directors:
 •	Top 10 Directors by the number of titles:
 
-Unknown_value                2621
-Rajiv Chilaka                   19
-Raúl Campos, Jan Suter          18
-Suhas Kadav                     16
-Marcus Raboy                    16
-Jay Karas                       14
-Cathy Garcia-Molina             13
-Martin Scorsese                 12
-Jay Chapman                     12
-Youssef Chahine                 12
+| Director                   | Number of Content |
+|----------------------------|-------------------|
+| Unknown_value               | 2621              |
+| Rajiv Chilaka               | 19                |
+| Raúl Campos, Jan Suter      | 18                |
+| Suhas Kadav                 | 16                |
+| Marcus Raboy                | 16                |
+| Jay Karas                   | 14                |
+| Cathy Garcia-Molina         | 13                |
+| Martin Scorsese             | 12                |
+| Jay Chapman                 | 12                |
+| Youssef Chahine             | 12                |
+
 
 •	Rajiv Chilaka leads among directors with known values, contributing 19 titles.
 
@@ -66,16 +81,19 @@ Youssef Chahine                 12
 ### •  Popular Genres:
 •	Top 10 genres on Netflix by the number of titles:
 
-International Movies       2752
-Dramas                     2426
-Comedies                   1674
-International TV Shows     1349
-Documentaries               869
-Action & Adventure          859
-TV Dramas                   762
-Independent Movies          756
-Children & Family Movies    641
-Romantic Movies             616
+| Genre                      | Number of Content |
+|----------------------------|-------------------|
+| International Movies        | 2752              |
+| Dramas                      | 2426              |
+| Comedies                    | 1674              |
+| International TV Shows      | 1349              |
+| Documentaries               | 869               |
+| Action & Adventure          | 859               |
+| TV Dramas                   | 762               |
+| Independent Movies          | 756               |
+| Children & Family Movies    | 641               |
+| Romantic Movies             | 616               |
+
 
 ## 4. Insights Deep Dive
 
