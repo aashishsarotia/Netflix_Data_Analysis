@@ -82,7 +82,7 @@ Total Movies from India: 893
 •	Top 10 genres on Netflix by the number of titles:
 
 | Genre                      | Number of Content |
-|----------------------------|-------------------|
+|----------------------------|-------------------|                                       
 | International Movies        | 2752              |
 | Dramas                      | 2426              |
 | Comedies                    | 1674              |
@@ -93,6 +93,7 @@ Total Movies from India: 893
 | Independent Movies          | 756               |
 | Children & Family Movies    | 641               |
 | Romantic Movies             | 616               |
+<img width="439" alt="Screenshot 2024-09-26 160800" src="https://github.com/user-attachments/assets/7d4e3836-3a04-404c-b7b8-2bb47a3bd7c9">
 
 
 ## 4. Insights Deep Dive
