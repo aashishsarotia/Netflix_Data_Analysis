@@ -109,9 +109,9 @@ Total Movies from India: 893
 
 ## 5. Recommendations
 
-•	Expand Localized Content in Emerging Markets: Given India’s strong second position in Netflix’s library, Netflix should consider further investments in regional content production, particularly focusing on regional languages and genres popular in India.
+#### •	Expand Localized Content in Emerging Markets: Given India’s strong second position in Netflix’s library, Netflix should consider further investments in regional content production, particularly focusing on regional languages and genres popular in India.
 
-•	Leverage Director Diversity: Netflix should continue partnering with both established and emerging directors globally, promoting lesser-known creators through featured collections and personalized recommendations.
+### •	Leverage Director Diversity: Netflix should continue partnering with both established and emerging directors globally, promoting lesser-known creators through featured collections and personalized recommendations.
 
 •	Enhance Genre-Based Marketing: With genres like international movies and dramas being highly popular, Netflix can enhance its genre-based marketing efforts, promoting these categories with specialized recommendations, featured lists, and campaigns aimed at specific demographics.
 
