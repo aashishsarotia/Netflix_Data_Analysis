@@ -94,6 +94,8 @@ Total Movies from India: 893
 | Children & Family Movies    | 641               |
 | Romantic Movies             | 616               |
 
+![Netflix_dashboard](https://github.com/user-attachments/assets/2bc7de0a-a23d-4924-bfd6-e77c7ab48e81)
+
 
 ## 4. Insights Deep Dive
 
